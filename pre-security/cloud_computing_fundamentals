@@ -1,0 +1,47 @@
+# [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals)
+
+**Path:** Pre Security · **Difficulty:** Easy · **Date:** 2026-06-06
+
+## What the room covers (1-2 sentences, my words)
+This room covered a small yet very well explained introduction to what is cloud computing and why we use it
+
+## Key concepts
+- How cloud computing works and why it's such a big thing and better than having your own infra.
+- The ground concepts: Cloud Computing has variety of services, PaaS, IaaS, SaaS, public, private and hybrid, each serving its own purpose, for example if I want to have full control and manage everything myself but still want cloud computing I would pick, PaaS, probably public
+- When it comes to cloud it is alot safer than hosting your own local infra, and way less costy than it.
+
+## What I learned (the part that's mine)
+> Well, I learned about PaaS and IaaS, also the public, hybrid and private that exists in the cloud and their differences, it's all very interesting, since cloud although, safer, introduce its very own neat vulnerabilities
+> Interesting and very good concepts about cloud computing, honestly, this room made me like cloud more and understand it deeper
+
+## Gotchas / what tripped me up
+It's incredible how many usages you can have when it comes to cloud computing, you could for instance, rent a server to scan the internet for something specific you want, having multiple instances on the cloud doing all the heavy lifting for you
+Or have a whole ecosystem there, the world is yours when it comes to cloud, and how safe it is
+
+Notes:
+Key Terminology
+Let's quickly review some concepts we learned in this room:
+
+Public Cloud 
+Cloud services you access over the internet that many people and companies share.
+Private Cloud 
+A cloud built just for one company, so they have more control and security.
+Hybrid Cloud
+A mix of public and private clouds that can work together and share data.
+IaaS
+A service where you rent basic computer parts like servers and storage from the cloud.
+PaaS
+A service that gives you a ready-to-use environment to build and run apps without managing servers.
+SaaS
+Software you use online without installing anything, like Gmail or Zoom.
+EC2
+Amazon’s cloud computers that you can quickly create, use, and resize whenever you need them.
+We also concluded that the key benefits of cloud computing are:
+
+Scalability
+On-demand self-service
+Pay only for what you use
+Security
+High availability
+Global access
+Further Learning
