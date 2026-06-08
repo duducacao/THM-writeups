@@ -1,0 +1,19 @@
+# [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
+
+**Path:** Pre Security · **Difficulty:** Easy · **Date:** 2026-06-06
+
+## What the room covers (1-2 sentences, my words)
+In this room we learn all about OS, just the basics though, since its an introduction
+
+## Key concepts
+- Kernel and User level spaces, basically, if you have kernel access, you have access to everything, if you have user access, you can open apps, and such, yes this simple
+- The OS brings everything together and manages who, where, and when aswell as how much resources, each app you have uses, so when you open google chrome and it eats all your RAM, your OS be that whatever it is, manages the other apps to make sure they don't clash for RAM
+
+## What I learned (the part that's mine)
+> If you ever hack an OS in the kernel level, you can persist ALOT, since you have unrestricted access to memory and CPU, that's the same level access kernel anti-cheats such as VANGUARD, have, which is interesting and makes us think, do they really need all this?
+> Well, all of this got me thinking, below all this complicated OS yata yata, its all code, just, think about how much math, and work the developers put to make all this work, it's really incredible
+
+## Gotchas / what tripped me up
+It's crazy to think of how vulnerable a OS is to attacks once the hacker somehow can see your laptop through a network or something, and how many vectors of attack are possible, but also how many security measures ARE bypassed to get there, I just can think of big CVEs
+in linux that were reported in 2025, sometimes, even with the best security measures, all it takes, is one snippet of code inside 10000, to make every single security measure obsolete in the end, it's wild, hackers only need ONE wrong thing, while defenders need to get
+everything right, it's a cat and mouse game, but the mouse needs to get everything right everytime, the cat, only needs to get lucky ONCE.
