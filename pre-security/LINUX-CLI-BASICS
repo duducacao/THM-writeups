@@ -1,0 +1,18 @@
+# [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics)
+
+**Path:** Pre Security · **Difficulty:** Easy · **Date:** 2026-06-06
+
+## What the room covers (1-2 sentences, my words)
+This room covers the basics of linux CLI which by itself is a very extensive topic as we know, but it covers navigation and essentials
+
+## Key concepts
+- How to use CD, LS, FIND, WHOAMI, PWD, DF, all those commands, I kinda missed MAN here, which for me should never me left out, but yeahhh
+- Honestly fair square of content here like 'ls -lah' was shown, although I feel like they missed the big 'man' command, if you get the joke
+
+## What I learned (the part that's mine)
+> Ehhh, I knew most, though I learned them the hard way like df -h when I didnt had GUI due to still be installing my arch system from scratch, heh, good ole days
+> Though I gotta admit I always struggled a little with find so thats something I learned, we always learning something new I do believe!
+
+## Gotchas / what tripped me up
+Well, a common thing to do with find, hell I do this myself, not anymore though... hopefully... Is to use find like 'find femboy_pic.jpg' which well, is very much wrong, but its kinda intuitive, real syntax is: find <wheretolook> -name <filename>
+don't forget that next time you search through your beloved pics!
